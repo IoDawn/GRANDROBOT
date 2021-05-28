@@ -369,6 +369,8 @@ __help__ = """
  - /settitle: Sets a custom title for an admin which is promoted by bot.
  - /setgpic: As a reply to file or photo to set group profile pic!
  - /delgpic: Same as above but to remove group profile pic.
+ 
+   [Indonesian](https://t.me/c/1267458448/91)
 
 """
 
